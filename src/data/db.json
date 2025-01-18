@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "login": "admin",
+      "password": "123",
+      "role": "ADMIN"
+    },
+    {
+      "login": "user",
+      "password": "123",
+      "role": "USER"
+    }
+  ],
+  "quotas": [
+    {
+      "id": "dfa52ee3-afc0-4580-9857-6989adec1a70",
+      "object": "СЕВЕРНОЕ",
+      "created": "2025-01-18",
+      "expired": "2025-01-31",
+      "gasType": "ДТ",
+      "quantity": 123,
+      "series": "A5B",
+      "number": 1000,
+      "used": "2025-01-18 19:57:25.008"
+    },
+    {
+      "id": "89794e4e-14d3-4cd8-a704-a3cdae7345b3",
+      "object": "Объект 2",
+      "created": "2025-01-18",
+      "expired": "2025-01-31",
+      "gasType": "ДТ",
+      "quantity": 14,
+      "series": "A5B",
+      "number": 4444,
+      "used": null
+    }
+  ]
+}
